@@ -12,7 +12,6 @@ body {
     background: #FFFFFF;
 }
 .sidebar {
-    grid-row: 1 / span 2;
     position: absolute;
     width: 150px;
     height: 935px;
