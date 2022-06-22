@@ -15,20 +15,9 @@ body {
     position: absolute;
     width: 150px;
     height: 935px;
-    left: 0;
     list-style: none;
     background: #191718;
 }
-.sidebar ul{
-    background: #191718;
-    height: 100%;
-    width: 100%;
-    list-style: none;
-}
-.sidebar ul li {
-    border-bottom: 1px solid #5c5c5c;
-}
-
 .sidebar ul li a {
     padding: 14px 91px 11px 16px;
     text-decoration: none;
@@ -39,6 +28,7 @@ body {
     width: 100%;
     color: #AAAAAA;
     background: #191718;
+    border-bottom: 1px solid #5c5c5c;
 }
 .sidebar ul .home {
     color: #FFFFFF;
